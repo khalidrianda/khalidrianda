@@ -10,7 +10,7 @@ This is the place for me to build something new and grow up my skills
 
 Here are some ideas to get you started:
 
-- 🔭 &nbsp;I’m interested in backend engineer :wink:
+- 🔭 &nbsp;I’m interested in backend engineer
 - 🌱 &nbsp;I’m currently learning Go
 - ⚡ &nbsp;I love watching movies and read manga
 
